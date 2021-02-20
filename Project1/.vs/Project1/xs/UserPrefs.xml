@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0EE7E03C-D9E8-4AB0-926F-1AC860673C3C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Project1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project1/Bataa.cs">
+    <Files>
+      <File FileName="Project1/Ariuka.cs" Line="25" Column="17" />
+      <File FileName="Project1/Program.cs" Line="12" Column="1" />
+      <File FileName="Project1/Bataa.cs" Line="2" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project1" expanded="True">
+            <Node name="Project1" expanded="True">
+              <Node name="Bataa.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
